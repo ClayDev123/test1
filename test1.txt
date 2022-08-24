@@ -1,2 +1,10 @@
 commit 1
 making a change
+adding line 3
+adding line 4
+adding 5
+adding 6
+adding 7
+adding 8
+adding 9
+adding 10
